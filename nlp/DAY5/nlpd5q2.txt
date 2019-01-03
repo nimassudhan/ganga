@@ -1,0 +1,5 @@
+s1="The sky is blue"
+s2="The sun is bright"
+s3="The flowers are beautiful"
+s4="cersei is beautiful"
+s5="jon snow is bright"
